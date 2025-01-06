@@ -21,6 +21,7 @@ To run this project, ensure the following prerequisites are met:
 - **JSoup Library**: For parsing and scraping web pages.
 
 ## Installation
+```bash
 1. Clone the repository:
   git clone https://github.com/Shivarora22/WebScapper
    cd WebScapper
