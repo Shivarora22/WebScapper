@@ -22,6 +22,10 @@ To run this project, ensure the following prerequisites are met:
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivarora22/WebScapper
+  git clone https://github.com/Shivarora22/WebScapper
    cd WebScapper
+2. Build the project using Maven:
+   mvn clean install
+3.Run the application:
+   mvn spring-boot:run
+    
